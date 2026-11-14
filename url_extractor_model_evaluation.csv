@@ -1,0 +1,2 @@
+accuracy,precision,recall,f1,roc_auc,train_rows,test_rows,train_hostnames,test_hostnames,hostname_overlap,invalid_urls_skipped,feature_count,target_column,positive_class_meaning
+0.9982653946227233,0.9993979530403372,0.9978960024045687,0.9986464129944352,0.9999769051528282,80118,20754,51169,12793,0,0,16,target,Malicious

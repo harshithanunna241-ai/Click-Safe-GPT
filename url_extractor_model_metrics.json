@@ -1,0 +1,16 @@
+{
+    "accuracy": 0.9982653946227233,
+    "precision": 0.9993979530403372,
+    "recall": 0.9978960024045687,
+    "f1": 0.9986464129944352,
+    "roc_auc": 0.9999769051528282,
+    "train_rows": 80118,
+    "test_rows": 20754,
+    "train_hostnames": 51169,
+    "test_hostnames": 12793,
+    "hostname_overlap": 0,
+    "invalid_urls_skipped": 0,
+    "feature_count": 16,
+    "target_column": "target",
+    "positive_class_meaning": "Malicious"
+}

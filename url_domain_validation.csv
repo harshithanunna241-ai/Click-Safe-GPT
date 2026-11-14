@@ -1,0 +1,2 @@
+evaluation,accuracy,precision,recall,f1_score,roc_auc,train_records,test_records,train_hostnames,test_hostnames,hostname_overlap
+hostname_group_split,0.9986508624843403,0.9993232064972176,0.9985722873459573,0.9989476058032023,0.9999862702470713,80118,20754,51169,12793,0
